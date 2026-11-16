@@ -151,3 +151,17 @@ body{padding-bottom:78px}
 .finder-thumb{width:76px;height:58px}
 .service-card{min-height:370px}
 }
+
+/* --- HERO LOGO CARD — PHONE CURE (founder defect, Jeremy screenshot 2026-11-16 16:37 MST):
+   at phone widths the logo card leaves the photo overlay and stacks UNDER the hero
+   photo, so the person in the photo is never blocked. Desktop composition unchanged. --- */
+@media (max-width:780px){
+.hero-visual{display:flex;flex-direction:column;height:auto;min-height:0;overflow:visible}
+.hero-illustration{position:relative;inset:auto;top:auto;height:320px;width:100%;object-fit:cover;object-position:center 30%;opacity:1;flex:none}
+.hero-logo-card{position:relative;left:auto;top:auto;order:2;align-self:flex-start;width:150px;margin:18px 0 22px 20px;flex:none}
+.hud-card{width:200px;padding:14px 16px;bottom:auto;top:180px;right:16px}
+}
+@media (max-width:530px){
+.hero-illustration{height:290px}
+.hud-card{width:170px;top:158px}
+}
