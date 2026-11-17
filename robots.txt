@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /
-# Prototype: remove this restriction and regenerate sitemap after production deployment.
+Allow: /
+
+Sitemap: https://flawlessbclean.com/sitemap.xml
