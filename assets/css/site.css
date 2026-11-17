@@ -165,3 +165,7 @@ body{padding-bottom:78px}
 .hero-illustration{height:290px}
 .hud-card{width:170px;top:158px}
 }
+
+/* --- REAL CREW PHOTO (2026-11-16): the crew image is now the real family team
+   photo (portrait-leaning); favor the top of the frame so heads never clip. --- */
+.visual-frame img.crew-photo{object-position:center 18%}
