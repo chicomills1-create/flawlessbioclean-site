@@ -1,6 +1,6 @@
 # Flawless Bio Clean LLC — Full Listing
 
-> This is llms-full.txt, the full-text companion to llms.txt for Flawless Bio Clean LLC. It lists every page on flawlessbclean.com — 960 pages in total, including the complete city service pages for 108 Arizona places — with the company's facts and service descriptions.
+> This is llms-full.txt, the full-text companion to llms.txt for Flawless Bio Clean LLC. It lists every page on flawlessbclean.com — 965 pages in total, including the complete city service pages for 108 Arizona places — with the company's facts and service descriptions.
 
 Flawless Bio Clean LLC is an Arizona maid service and home-cleaning company serving all of Arizona. Its core work is recurring maid service, deep cleaning, move-out cleaning and Airbnb turnover cleaning for homes, plus commercial cleaning. The company also provides certified specialty cleaning — crime scene, biohazard, cleanroom and data center cleaning — through its owner, Yvette Valenti. Tagline: "Clean. Safe. Flawless. Down to a science."
 
@@ -48,6 +48,16 @@ City coverage: the certified specialty family has dedicated city pages across th
 - [Hoarding Cleanup](https://flawlessbclean.com/services/hoarding.html): Respectful, non-judgmental hoarding cleanup — sorting, removal, sanitizing and restoring the home.
 - [Semiconductor Facility Cleaning](https://flawlessbclean.com/services/semiconductor.html): Cleaning support for semiconductor and microelectronics environments.
 - [Post-Construction Cleaning](https://flawlessbclean.com/services/construction.html): Final cleaning after construction, fit-outs and renovations.
+
+## Field Notes
+
+Field Notes are plain-language answers from Flawless Bio Clean's certified specialty team, written by Owner & Founder Yvette Valenti — the questions Arizona families and facility managers ask before they call.
+
+- [Field Notes](https://flawlessbclean.com/field-notes/index.html): Answers from a certified Arizona specialty cleaning team.
+- [How Much Does Biohazard Cleanup Cost in Arizona?](https://flawlessbclean.com/field-notes/how-much-does-biohazard-cleanup-cost-in-arizona.html): Biohazard cleanup is priced by scope — the factors are the size of the affected area, the type of contamination, the materials involved, responsible disposal and documentation, and a scoped proposal produces the exact quote.
+- [Who Cleans Up After a Death in the Home?](https://flawlessbclean.com/field-notes/who-cleans-up-after-a-death-in-the-home.html): A certified biohazard and crime scene cleanup team — not the family — once authorities release the scene; the team cleans, sanitizes, decontaminates and documents the work.
+- [Hoarding Cleanup: What to Expect](https://flawlessbclean.com/field-notes/hoarding-cleanup-what-to-expect.html): A respectful step-by-step process — first call, walkthrough, sorting together, removal, sanitizing and restoring the home, at the pace of the person who lives there.
+- [What Is Cleanroom Cleaning?](https://flawlessbclean.com/field-notes/what-is-cleanroom-cleaning.html): Protocol-led cleaning of controlled environments, working to the facility's own procedures with approved materials and documented service.
 
 ## Key facts
 
@@ -294,4 +304,4 @@ City coverage: the certified specialty family has dedicated city pages across th
 
 - Yuma: [Maid Service](https://flawlessbclean.com/services/yuma/maid-service.html) · [Deep Cleaning](https://flawlessbclean.com/services/yuma/deep-cleaning.html) · [Move-Out Cleaning](https://flawlessbclean.com/services/yuma/move-out-cleaning.html) · [Airbnb Turnover Cleaning](https://flawlessbclean.com/services/yuma/airbnb-turnover-cleaning.html) · [Commercial Cleaning](https://flawlessbclean.com/services/yuma/commercial-cleaning.html) · [Post-Construction Cleaning](https://flawlessbclean.com/services/yuma/post-construction-cleaning.html) · [Medical Office Cleaning](https://flawlessbclean.com/services/yuma/medical-office-cleaning.html) · [Biohazard Cleaning](https://flawlessbclean.com/services/yuma/biohazard-cleaning.html) · [Crime Scene Cleaning](https://flawlessbclean.com/services/yuma/crime-scene.html) · [Hoarding Cleanup](https://flawlessbclean.com/services/yuma/hoarding.html)
 
-Total pages listed: 960 (complete sitemap of flawlessbclean.com, 2026-11-20).
+Total pages listed: 965 (complete sitemap of flawlessbclean.com, 2026-11-22).
